@@ -1,4 +1,4 @@
-Hi there 👋 mi name is Juan Martín, I'm a Python developer!
+## Hi there 👋 mi name is Juan Martín, I'm a Python developer!
 
 🎓 I'm studying to be a Programming Technician
 
