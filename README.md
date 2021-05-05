@@ -2,6 +2,8 @@
 
 🎓 I'm studying Software Engineering
 
+📈 Data Scientist in progress
+
 🔭 I'm currently working as freelancer
 
 👀 Proactive and enterprising
