@@ -1,8 +1,9 @@
-## Hi there 👋 my name is Juan Martín, I'm a Python developer!
+## Hi there 👋 my name is Juan Martín, I'm a Python Developer!
 
 🎓 I'm studying Software Engineering
 
 📈 Data Scientist in progress
+📈 Machine Learning Engineer in progress
 
 🔭 I'm currently working as freelancer
 
