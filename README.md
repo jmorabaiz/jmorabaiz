@@ -11,7 +11,8 @@
 👀 Proactive and enterprising
 
 <img src="https://cdn.icon-icons.com/icons2/112/PNG/128/python_18894.png" width="20" 
-     height="20"> I mainly work with Python and its frameworks for web development
+     height="20"> I mainly work with Python and its frameworks for web development <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_django_icon_130645.png" width="20" 
+     height="20">
 
 <!---
 jmorabaiz/jmorabaiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
