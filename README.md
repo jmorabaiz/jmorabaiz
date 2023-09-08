@@ -3,6 +3,7 @@
 🎓 I studied Software Engineering in college
 
 📈 Data Scientist in progress
+
 📈 Machine Learning Engineer in progress
 
 🔭 I'm currently working as freelancer
