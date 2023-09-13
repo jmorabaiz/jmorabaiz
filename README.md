@@ -1,6 +1,6 @@
 ## Hi there 👋 my name is Juan Martín, I'm a Python Developer!
 
-🎓 I studied Software Engineering in college
+🎓 I studied Software Engineering
 
 📈 Data Scientist in progress
 
