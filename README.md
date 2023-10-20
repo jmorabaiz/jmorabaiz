@@ -2,11 +2,11 @@
 
 🎓 I studied Software Engineering
 
-📈 Data Scientist in progress
+📈 Data Scientist
 
-📈 Machine Learning Engineer in progress
+📈 Machine Learning Engineer - In progress
 
-🔭 I'm currently working as freelancer
+🔭 I'm currently working at MercadoLibre S.R.L.
 
 👀 Proactive and enterprising
 
